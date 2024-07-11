@@ -19,7 +19,7 @@
 1. Clone the repository:
     ```sh
     $ git clone https://github.com/zinzied/HostsUrlsFinder.git
-    $ cd HostsUrlFinder
+    $ cd HostsUrlsFinder
     ```
 2. Install the required dependencies:
     ```bash
