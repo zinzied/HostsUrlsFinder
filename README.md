@@ -19,7 +19,7 @@
 1. Clone the repository:
     ```sh
     $ git clone https://github.com/zinzied/HostsUrlsFinder.git
-    $ cd HostsUrlsFinder
+    $ cd HostsUrlFinder
     ```
 2. Install the required dependencies:
     ```bash
@@ -27,7 +27,7 @@
     ```
 3. Run the tool:
     ```bash
-    $ python HostsUrlsFinder.py URL
+    $ python HostsUrlFinder.py URL
     ```
     Replace `URL` with the webpage you want to extract links from.
 
