@@ -27,7 +27,7 @@
     ```
 3. Run the tool:
     ```bash
-    $ python HostsUrlFinder.py URL
+    $ python HostUrlFinder.py URL
     ```
     Replace `URL` with the webpage you want to extract links from.
 
