@@ -63,9 +63,9 @@ When run, the script will display a banner, extract links from the provided URL,
 
 **Conclusion:**
 HostsUrlsFinder is a simple yet powerful tool for extracting and categorizing links from a webpage. Its use of colored terminal output and detailed reporting makes it a valuable tool for web information gathering and analysis.
+
 ---
 
-This description provides a comprehensive overview of the script, its features, usage, and functionality.
 ### Donations
 If you feel like showing your love and/or appreciation for this project, then how about shouting me a coffee or Milk :)
 
